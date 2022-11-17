@@ -1,0 +1,3 @@
+/home/nik/Desktop/toc-assignment-2/toc-assignment-2/cmake-build-debug/CMakeFiles/toc_assignment_2.dir
+/home/nik/Desktop/toc-assignment-2/toc-assignment-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nik/Desktop/toc-assignment-2/toc-assignment-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
