@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int main(int argc, char *argv[]){
+ int a,b,i;
+ a=10;
+ for(i=2;a>i;i=i+1)
+ {
+ a=a+i;
+ b=b*i;
+ };
+scanf("%d",&a);
+scanf("%d",&b);
+return 0;
+}

@@ -1,0 +1,6 @@
+int a, b, c;
+read b;
+b=b-a+12;
+c=a+2*10;
+write b;
+write c;
